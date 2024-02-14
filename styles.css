@@ -1,0 +1,152 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #191919;
+}
+
+.bar ul{
+    list-style: none;
+}
+
+.brand a {
+    text-decoration: none;
+    color: white;
+}
+
+.nav a{
+    text-decoration: none;
+    color: white;
+}
+
+.nav a:hover {
+    color: #00ff00;
+
+}
+
+.sign {
+    border: 1px #00ff00 solid;
+}
+
+.sign:hover {
+    border: 1px white solid;
+    
+}
+
+.start {
+    background-color: #00ff00;
+}
+
+.start:hover {
+    background-color: white;
+    color: black;
+}
+
+
+.landing h1 {
+    font-size: 55pt;
+}
+
+.slogan p {
+    margin: 0px 300px;
+}
+
+.slogan {
+    margin: 0px 100px;
+}
+
+.sesi p {
+    text-align: justify;
+}
+
+.input-group input{
+    margin: 2px 200px;
+}
+
+.info {
+    background-color: #00ff00;
+}
+
+.info h1 {
+    font-size: 72pt;
+}
+
+.info p {
+    font-size: 10pt;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.benefit p {
+    font-size: 10pt;
+}
+
+.benefit button {
+    padding: 8px 25px;
+    border: 1px #00ff00 solid;
+    border-radius: 10px;
+    color: white;
+}
+
+.benefit button:hover {
+    background-color: white;
+    color: black;
+}
+
+.ben h5 {
+    color: white;
+}
+
+.ben p {
+    text-align: justify;
+}
+
+.promosi {
+    background-color: #00ff00;
+}
+
+.account h3 {
+    color: white;
+}
+.account p {
+    color: white;
+    text-align: justify;
+    margin: 30px 0px;
+}
+.account button {
+    padding: 10px 40px;
+    color: white;
+    border: 1px #00ff00 solid;
+    border-radius: 30px;
+    background-color: #191919;
+}
+
+.foot {
+    background-color: #00ff00;
+}
+
+.foot button {
+    padding: 10px 30px;
+    border-radius: 20px;
+    
+}
+
+.foot p {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.foot a {
+    text-decoration: none;
+    color: black;
+    margin-bottom: 7px;
+}
+
+.foot a:hover {
+    color: white;
+    transition: 2ms ease-out;
+}
+
